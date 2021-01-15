@@ -1,4 +1,4 @@
-<img style="vertical-align: center !important;" src="codegasmlogo.png">
+<img style="vertical-align: center !important;" src="https://pbs.twimg.com/profile_banners/1345416220208754693/1610676268/600x200">
 
 ---
 
