@@ -1,5 +1,5 @@
-<img style="vertical-align: center !important;" src="https://pbs.twimg.com/profile_banners/1345416220208754693/1610676268/600x200">
+<img style="vertical-align: center !important;" src="https://pbs.twimg.com/profile_banners/1345416220208754693/1610907053/1500x500">
 
 ---
 
-Codegasm is a coding community for coders, builders and makers.
+Codetrees is a coding community for coders, builders and makers.
